@@ -1,4 +1,4 @@
-# Pharloom Daily
+# Our Citadel of Song
 
 *Ever wondered what happens under the Citadel's walls?*
 
