@@ -6,6 +6,8 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <title>Home</title>
     <script src="src/scripts/carousel.js" defer></script>
+    <script src="src/scripts/burgermenu.js" defer></script>
+    <script src="src/scripts/accessibility.js" defer></script>
     <style><?php include('src/css/main.css'); ?></style>
 </head>
 <body>
@@ -29,6 +31,12 @@
             A beast's nature bare to all.
         </i></p>
     </div>
+
+    <img src="res/images/d_divider.webp" alt="Divider" class="divider" id="divider">
+
+    <h2>Under Our Citadel...</h2>
+
+    <?php include('src/core/news_mini.php'); ?>
 
     <?php include('src/core/footer.php'); ?>
 </body>
